@@ -1,10 +1,17 @@
 #Apple
-2600:1417:9:192::c77 www.apple.com
-2600:1417:9::b833:fa9 images.apple.com
+2600:1417:9:192::1aca www.apple.com
+58.205.248.227 www.apple.com
 2600:1417:9:192::2a1 itunes.apple.com
+211.87.95.25 itunes.apple.com
+2600:1417:9:192::2a1 client-api.itunes.apple.com
+2600:1417:9:192::2a1 play.itunes.apple.com
+118.229.131.24 play.itunes.apple.com
 2600:1417:9:192::b22 store.apple.com
+58.205.250.156 store.apple.com
 2600:1417:9:192::1477 store.storeimages.cdn-apple.com
 2600:1417:9:192::117e www.icloud.com
 2600:1417:9::b833:fa9 mesu.apple.com
 2600:1417:9::b833:fa9 appldnld.apple.com
+101.4.138.101 appldnld.apple.com
 2600:1417:9:192::1b13 secure-appldnld.apple.com
+2600:1417:9:192::1d76 radio.itunes.apple.com
