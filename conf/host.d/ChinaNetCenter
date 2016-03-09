@@ -1,8 +1,9 @@
 #ChinaNetCenter
-2001:da8:215:4131::17 ipv6.xdwscache.ourglb0.com
-2001:da8:8000:600f:16fe:b5ff:fed4:4309 ipv6.xdwscache.ourglb0.com
-2001:250:4004:e00::23 ipv6.xdwscache.ourglb0.com
-2001:250:4004:e00::24 ipv6.xdwscache.ourglb0.com
+#2001:da8:215:4131::17 ipv6.xdwscache.ourglb0.com
+#2001:da8:8000:600f:16fe:b5ff:fed4:4309 ipv6.xdwscache.ourglb0.com
+#2001:250:4004:e00::23 ipv6.xdwscache.ourglb0.com
+#2001:250:4004:e00::24 ipv6.xdwscache.ourglb0.com
+2001:250:208:4000:2000:2:0:227 ipv6.xdwscache.ourglb0.com
 116.57.77.35 ipv6.xdwscache.ourglb0.com
 116.57.77.39 ipv6.xdwscache.ourglb0.com
 2600:1417:a::174c:cc50 a248.dsccn.w.tl88.net
