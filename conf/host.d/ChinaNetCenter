@@ -6,11 +6,11 @@
 2001:250:208:4000:2000:2:0:227 ipv6.xdwscache.ourglb0.com
 116.57.77.35 ipv6.xdwscache.ourglb0.com
 116.57.77.39 ipv6.xdwscache.ourglb0.com
-2600:1417:a::174c:cc50 a248.dsccn.w.tl88.net
-2600:1417:a::174c:cc51 a248.dsccn.w.tl88.net
-2600:1417:a::174c:cc52 a248.dsccn.w.tl88.net
-2600:1417:a::174c:cc53 a248.dsccn.w.tl88.net
-2600:1417:a::174c:cc54 a248.dsccn.w.tl88.net
+2600:1417:9::6007:3650 a248.dsccn.w.tl88.net
+2600:1417:9::6007:3651 a248.dsccn.w.tl88.net
+2600:1417:9::6007:3652 a248.dsccn.w.tl88.net
+2600:1417:9::6007:3653 a248.dsccn.w.tl88.net
+2600:1417:9::6007:3654 a248.dsccn.w.tl88.net
 58.205.224.227 a248.dsccn.w.tl88.net
 58.205.224.228 a248.dsccn.w.tl88.net
 58.205.224.229 a248.dsccn.w.tl88.net
@@ -34,7 +34,7 @@
 115.156.188.143 www.ipswitch.ourdvs.com
 222.23.55.215 www.ipswitch.ourdvs.com
 115.156.188.145 1st.dlmix.ourdvs.com
-121.192.176.199 1st.dlmix.ourdvs.com
+115.156.188.146 1st.dlmix.ourdvs.com
 #115.156.188.146 ourdvs.com.hust.edu.cn
 #115.156.188.187 ourdvs.com.hust.edu.cn
 #121.192.176.199 ourdvs.com.xmu.edu.cn
