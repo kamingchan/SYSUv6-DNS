@@ -7,6 +7,8 @@
 2404:6800:4005:800::2000 android.clients.google.com
 202.86.162.172 android.clients.google.com
 2404:6800:4005:800::2000 www.google-analytics.com
+2401:3800:4001::1 cache.l.google.com
+61.49.51.49 cache.l.google.com
 2401:3800:4001::1 cache.pack.google.com
 61.49.51.49 cache.pack.google.com
 61.49.51.49 fonts.googleapis.com
@@ -18,3 +20,6 @@
 64.233.188.188 mtalk.google.com
 64.233.188.188 mtalk4.google.com
 64.233.188.188 gcm.googleapis.com
+64.233.188.125 talk.google.com
+61.49.51.49 redirector.googlevideo.com
+202.86.162.172 manifest.googlevideo.com
