@@ -18,7 +18,7 @@
 
 这两个 DNS 节点分别部署在两台 Mac mini 上，其中一台通过千兆以太网与校园网相连，另外一台是百兆以太网，地点为珠海校区。虽然部署在学生宿舍，但是我们会尽量确保 DNS 服务器的正常运行。
 
-这两个 DNS 以 [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) 作为上游 DNS，开启双向过滤，以解决 DNS 污染和国内外 CDN 的问题。其中，国内 DNS 的选择是 `114.114.115.115`，海外 DNS 通过 [Shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) 的 ss-tunnel 功能加密转发 DNS 请求到香港阿里云的服务器上，此服务器上由 BIND 提供 DNS64 功能。
+这两个 DNS 以 [pdnsd](http://members.home.nl/p.a.rombouts/pdnsd/index.html) 作为上游 DNS，通过 BIND 提供 DNS64 功能。
 
 
 
