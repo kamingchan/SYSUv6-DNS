@@ -13,6 +13,8 @@
 2600:1417:9::b833:fa9 mesu.apple.com
 2001:da8:200b:3802::47 appldnld.apple.com
 101.4.138.101 appldnld.apple.com
+2600:1417:9::b833:fa9 iosapps.itunes.apple.com 
+101.4.138.101 iosapps.itunes.apple.com
 2600:1417:9:384::1b13 secure-appldnld.apple.com
 2600:1417:9:384::1759 swdist.apple.com
 218.199.110.83 swdist.apple.com
