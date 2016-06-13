@@ -31,10 +31,10 @@
 58.205.224.235 a248.cn.w.tl88.net
 58.205.224.239 a248.cn.w.tl88.net
 115.156.188.145 www.ipswitch.ourdvs.com
-115.156.188.148 www.ipswitch.ourdvs.com
+#115.156.188.148 www.ipswitch.ourdvs.com
 2001:da8:200b:3802::47 ipv6microsoft.dlmix.ourdvs.com
 115.156.188.145 ipv6microsoft.dlmix.ourdvs.com
-115.156.188.148 ipv6microsoft.dlmix.ourdvs.com
+#115.156.188.148 ipv6microsoft.dlmix.ourdvs.com
 #115.156.188.146 ourdvs.com.hust.edu.cn
 #115.156.188.187 ourdvs.com.hust.edu.cn
 #121.192.176.199 ourdvs.com.xmu.edu.cn
