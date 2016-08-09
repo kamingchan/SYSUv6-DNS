@@ -1,6 +1,6 @@
 # SYSUv6-DNS
 
-这个项目是由 [SYSUv6-hosts](https://github.com/LGA1150/SYSUv6-hosts) 启发，利用 dnsmasq 和 [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy)实现的中山大学校园网 DNS，主要由 [LGA1150](https://github.com/LGA1150) 负责维护。
+这个项目是由 [SYSUv6-hosts](https://github.com/LGA1150/SYSUv6-hosts) 启发，利用 dnsmasq 和 [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) 实现的中山大学校园网 DNS，主要由 [LGA1150](https://github.com/LGA1150) 负责维护。
 
 ## 原理
 
