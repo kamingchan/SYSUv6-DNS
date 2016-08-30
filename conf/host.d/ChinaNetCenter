@@ -4,8 +4,8 @@
 #2001:250:4004:e00::23 ipv6.xdwscache.ourglb0.com
 #2001:250:4004:e00::24 ipv6.xdwscache.ourglb0.com
 2001:da8:200b:3802::53 ipv6.xdwscache.ourglb0.com
-116.57.77.35 ipv6.xdwscache.ourglb0.com
-116.57.77.39 ipv6.xdwscache.ourglb0.com
+125.216.146.25 ipv6.xdwscache.ourglb0.com
+125.216.146.28 ipv6.xdwscache.ourglb0.com
 2600:1417:9::6007:3650 a248.dsccn.w.tl88.net
 2600:1417:9::6007:3651 a248.dsccn.w.tl88.net
 58.205.224.227 a248.dsccn.w.tl88.net
@@ -28,10 +28,10 @@
 58.205.224.234 a248.cn.w.tl88.net
 58.205.224.235 a248.cn.w.tl88.net
 58.205.224.239 a248.cn.w.tl88.net
-115.156.188.145 www.ipswitch.ourdvs.com
+#115.156.188.145 www.ipswitch.ourdvs.com
 #115.156.188.148 www.ipswitch.ourdvs.com
 2001:da8:200b:3802::47 ipv6microsoft.dlmix.ourdvs.com
-115.156.188.145 ipv6microsoft.dlmix.ourdvs.com
+125.216.146.34 ipv6microsoft.dlmix.ourdvs.com
 #115.156.188.148 ipv6microsoft.dlmix.ourdvs.com
 #115.156.188.146 ourdvs.com.hust.edu.cn
 #115.156.188.187 ourdvs.com.hust.edu.cn
