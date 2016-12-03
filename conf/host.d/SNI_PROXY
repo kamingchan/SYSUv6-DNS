@@ -1,6 +1,10 @@
 # GitHub
-218.254.1.15 github.com
-218.254.1.15 www.github.com
-218.254.1.15 api.github.com
-218.254.1.15 codeload.github.com
-218.254.1.15 gist.github.com
+#218.254.1.15 github.com
+#218.254.1.15 www.github.com
+#218.254.1.15 api.github.com
+#218.254.1.15 codeload.github.com
+#218.254.1.15 gist.github.com
+
+# Twitch
+203.210.7.45 usher.twitch.tv
+203.210.7.45 usher.ttvnw.net
