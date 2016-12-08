@@ -26,6 +26,7 @@
 2401:3800:4001:11::1000 fonts.gstatic.com
 183.60.90.120 csi.gstatic.com
 183.60.90.120 fonts.gstatic.com
+2401:3800:4001:11::1000 safebrowsing-cache.google.com
 183.60.90.120 safebrowsing-cache.google.com
 64.233.188.188 mtalk.google.com
 64.233.188.188 mtalk4.google.com
@@ -35,3 +36,7 @@
 183.60.90.120 redirector.googlevideo.com
 202.38.64.9 manifest.googlevideo.com
 2001:4860:4802:32::1d check.googlezip.net
+2404:6800:4005:80b::2000 connectivitycheck.gstatic.com
+2404:6800:4005:80b::2000 connectivitycheck.android.com
+211.66.248.128 connectivitycheck.gstatic.com
+211.66.248.128 connectivitycheck.android.com
