@@ -10,8 +10,8 @@
 58.205.250.156 store.apple.com
 2600:1417:9:192::1477 store.storeimages.cdn-apple.com
 2600:1417:9:192::117e www.icloud.com
-2600:1417:9::b833:f18 mesu.apple.com
-2600:1417:9::b833:f18 appldnld.apple.com
+2600:1417:9:192::1aca mesu.apple.com
+2600:1417:9:192::1aca appldnld.apple.com
 101.4.138.101 appldnld.apple.com
 2600:1417:9:192::1b13 secure-appldnld.apple.com
 2600:1417:9:192::1759 swdist.apple.com
