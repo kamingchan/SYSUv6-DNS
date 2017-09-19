@@ -2,22 +2,36 @@
 2404:6800:4005:800::2000 scholar.google.com
 2404:6800:4005:800::2000 scholar.google.com.hk
 203.210.6.40 pkg.entware.net
-
-124.14.2.28 ws.acgvideo.com
+210.38.3.42 kyfw.12306.cn
+202.116.81.83 ws.acgvideo.com
 211.162.48.174 dl.live-play.acgvideo.com
 220.112.25.50 txy.live-play.acgvideo.com
 220.112.25.153 tx.acgvideo.com
 211.162.55.230 xl.live-play.acgvideo.com
+220.112.25.183 tx2play1.douyucdn.cn
+220.112.25.183 tx2play2.douyucdn.cn
+202.116.81.83 hdla.douyucdn.cn
+202.116.81.83 hdl1a.douyucdn.cn
+202.116.81.83 hdl3a.douyucdn.cn
+202.116.81.83 dl.delivery.mp.microsoft.com
+202.116.81.83 tlu.dl.delivery.mp.microsoft.com
+202.116.81.83 8.tlu.dl.delivery.mp.microsoft.com
+2400:a980:fd:6:11::3 10.tlu.dl.delivery.mp.microsoft.com
+220.112.32.27 10.tlu.dl.delivery.mp.microsoft.com
+
+101.4.136.34 cgi.v.cc.163.com
+124.14.16.140 dnpullhdl.v.cc.163.com
+
 
 2400:da00::dbf:0:6666 ipv6.baidupcs.com
 119.75.219.40 ipv6.baidupcs.com
-119.75.219.40 small.cdn.baidupcs.com
-2001:da8:200b:3802::46 d7.baidupcs.com
-220.113.150.46 d7.baidupcs.com
+#119.75.219.40 small.cdn.baidupcs.com
+#2001:da8:200b:3802::46 d7.baidupcs.com
+202.116.81.83 d7.baidupcs.com
 220.113.150.46 cdn.baidupcs.com
 180.88.62.125 lx.cdn.baidupcs.com
-211.162.48.16 ws.cdn.baidupcs.com
-180.88.61.114 video.cdn.baidupcs.com
+202.116.81.83 ws.cdn.baidupcs.com
+202.116.81.83 video.cdn.baidupcs.com
 119.75.222.89 bjbgp01.baidupcs.com
 119.75.222.89 bj.baidupcs.com
 119.75.222.89 bj.poms.baidupcs.com
@@ -34,6 +48,10 @@
 119.75.222.89 allall03.baidupcs.com
 119.75.222.89 allall04.baidupcs.com
 119.75.222.89 allall05.baidupcs.com
+119.75.222.89 yqall01.baidupcs.com
+119.75.222.89 yqall02.baidupcs.com
+119.75.222.89 yqall03.baidupcs.com
+119.75.222.89 yqall04.baidupcs.com
 
 115.25.209.49 down.qq.com
 115.25.209.49 down-update.qq.com
