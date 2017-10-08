@@ -1,8 +1,18 @@
+##for PTR only
+2404:6800:4005:800::2000 hkg07s21-in-x00.1e100.net
+202.116.81.83 wscdn.sysu.edu.cn
+202.116.81.85 wswebcdn.sysu.edu.cn
+
+2404:6800:4005:800::2000 android.clients.google.com
 2404:6800:4005:800::2000 android.clients.google.com
 2404:6800:4005:800::2000 scholar.google.com
 2404:6800:4005:800::2000 scholar.google.com.hk
-203.210.6.40 pkg.entware.net
+2404:6800:4005:800::2000 translate.googleapis.com
+
 210.38.3.42 kyfw.12306.cn
+
+202.116.81.83 bigota.d.miui.com
+
 202.116.81.83 ws.acgvideo.com
 211.162.48.174 dl.live-play.acgvideo.com
 220.112.25.50 txy.live-play.acgvideo.com
@@ -18,10 +28,15 @@
 202.116.81.83 8.tlu.dl.delivery.mp.microsoft.com
 2400:a980:fd:6:11::3 10.tlu.dl.delivery.mp.microsoft.com
 220.112.32.27 10.tlu.dl.delivery.mp.microsoft.com
-
+2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com
+183.232.189.161 download.visualstudio.microsoft.com
 101.4.136.34 cgi.v.cc.163.com
 124.14.16.140 dnpullhdl.v.cc.163.com
 
+202.116.81.83 iosapps.itunes.apple.com
+202.116.81.83 osxapps.itunes.apple.com
+202.116.81.83 swcdn.apple.com
+180.88.62.22 myapp.itunes.apple.com
 
 2400:da00::dbf:0:6666 ipv6.baidupcs.com
 119.75.219.40 ipv6.baidupcs.com
@@ -58,6 +73,48 @@
 115.25.209.49 dd.myapp.com
 211.162.53.182 dldir1.qq.com
 211.161.150.217 dlied1.qq.com
+
+2606:2800:21f:306:1df4:1e70:ae5:1908 cdn.edgecast.steamstatic.com
+221.179.212.31 cdn.akamai.steamstatic.com
+2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb cn.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb us.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb international.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
+
+68.232.44.127	soundcloud.com
+68.232.44.127	www.soundcloud.com
+68.232.44.127	api.soundcloud.com
+68.232.44.127	api-mobile.soundcloud.com
+68.232.44.127	api-partners.soundcloud.com
+68.232.44.127	api-v2.soundcloud.com
+68.232.44.127	developers.soundcloud.com
+68.232.44.127	m.soundcloud.com
+68.232.44.127	on.soundcloud.com
+68.232.44.127	pages.soundcloud.com
+68.232.44.127	promoted.soundcloud.com
+68.232.44.127	visuals.soundcloud.com
+68.232.44.127	featured-profiles.soundcloud.com
+68.232.45.67	ec-media.soundcloud.com
+68.232.46.220	ec-rtmp-media.soundcloud.com
+68.232.44.96	a1.sndcdn.com
+#68.232.44.96	a2.sndcdn.com
+211.162.48.116	a-v2.sndcdn.com
+211.162.48.116	style.sndcdn.com
+211.162.48.116 va.sndcdn.com
+211.162.48.116 cf-media.sndcdn.com
+211.162.48.116 cf-hls-media.sndcdn.com
+68.232.44.96	ec-preview-media.sndcdn.com
+68.232.45.77	ec-media.sndcdn.com
+159.12.192.13	i1.sndcdn.com
+159.12.192.13	i2.sndcdn.com
+159.12.192.13	i3.sndcdn.com
+159.12.192.13	i4.sndcdn.com
+159.12.192.13	wis.sndcdn.com
+159.12.192.13	eventgateway.soundcloud.com
+159.12.192.13	eventlogger.soundcloud.com
+159.12.192.13	l9bjkkhaycw6f8f4.soundcloud.com
+104.196.1.106	blog.soundcloud.com
 
 2001:67c:2b0:db32::1:104.244.42.1 twitter.com
 2001:67c:2b0:db32::1:104.244.42.1 www.twitter.com
