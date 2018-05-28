@@ -37,6 +37,10 @@
 ## 其他
 [如何在路由器后获取到 IPv6 地址](https://github.com/bazingaterry/SYSUv6-DNS/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8%E8%B7%AF%E7%94%B1%E5%99%A8%E5%90%8E%E8%8E%B7%E5%8F%96-IPv6-%E5%9C%B0%E5%9D%80)
 
+## Telegram 交流群
+
+https://t.me/joinchat/C42uG0gGXR3uZ_c4kI-luQ
+
 ## 许可
 
 本仓库的所有内容使用 [![CC Image]][CC BY-NC-SA 4.0] 4.0 许可。
